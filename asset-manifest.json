@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react_project/static/css/main.62137705.css",
+    "main.js": "/react_project/static/js/main.d35148ab.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_project/static/js/787.28cb0dcd.chunk.js",
+    "static/media/seongsan-sunrise-peak-4266254.jpg": "/react_project/static/media/seongsan-sunrise-peak-4266254.43e9f76f244cec113140.jpg",
+    "static/media/lottet.jpg": "/react_project/static/media/lottet.2118a262d689aa6b2659.jpg",
+    "static/media/haeundae-beach-3838960.jpg": "/react_project/static/media/haeundae-beach-3838960.d8e325e53ff137ce6091.jpg",
+    "static/media/title.png": "/react_project/static/media/title.87911a294c3003a77aee.png",
+    "index.html": "/react_project/index.html",
+    "main.62137705.css.map": "/react_project/static/css/main.62137705.css.map",
+    "main.d35148ab.js.map": "/react_project/static/js/main.d35148ab.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_project/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62137705.css",
+    "static/js/main.d35148ab.js"
+  ]
+}
