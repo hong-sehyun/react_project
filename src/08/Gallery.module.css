@@ -1,0 +1,149 @@
+* {
+    box-sizing: border-box;
+}
+.container {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+
+.main1 {
+
+    height: 1300px;
+
+    background-size: cover;
+}
+/* 
+.timage {
+    width: 900px;
+    background-image: url(../img/title.png);
+} */
+
+
+#citycard {
+
+}
+
+.city {
+
+    height: 500px;
+
+}
+.city > span {
+    
+    vertical-align: middle;
+
+    font-size: 100px;
+    color: aliceblue;
+    font-weight: 600;
+}
+.ctbt {
+padding-top: 200px;
+}
+
+#ctbtid {
+    width: 180px;
+    background-color: #2D63F3;
+    border-radius: 18px;
+    opacity: 0.9;
+    font-weight: 700;
+    color:aliceblue;
+}
+
+
+/* 도시 카드 */
+#seoul {
+    background-image: url(../img/lottet.jpg);
+    background-size:cover;
+    opacity: 0.8;
+    text-shadow: 1px 2px 5px black;
+}
+#busan {
+    background-image: url(../img/haeundae-beach-3838960.jpg);
+    background-size:cover;
+    opacity: 0.8;
+    text-shadow: 1px 2px 5px black;
+}
+#jeju {
+    background-image: url(../img/seongsan-sunrise-peak-4266254.jpg);
+    background-size:cover;
+    opacity: 0.8;
+    text-shadow: 1px 2px 5px black;
+}
+
+#kbox {
+    height: 160px;
+    margin-top: 0px;
+    grid-template-columns: 3fr 1fr;
+}
+
+#txt1 {
+    margin-top: 5px;
+    /* opacity: 0.6; */
+    border: 1.5px solid;
+}
+
+.btDiv {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btDiv > button {
+    margin: 5px;
+    border-radius: 30px;
+    border: 1.5px solid;
+    border-color:grey;
+    opacity: 0.8;
+    background-color: #2D63F3;
+    font-weight: 600;
+
+}
+
+
+.spd {
+    /* display: flex; */
+    text-align:left;
+    /* align-content:flex-start; */
+    /* display:inline-block;    */
+    line-height: 2em;
+    
+}
+
+.sp1 {
+
+
+    border: 4px ;
+    margin: 4px;
+    padding: 3px;
+    padding: 3px 6px ;
+
+    flex-direction : row;
+
+    height: 20px;
+    border-radius: 15px;
+    width: 50px;
+    color:gray;
+    font-weight: 600;
+    background-color:rgb(234, 234, 234);
+}
+
+.infosp1 {
+text-align: left;
+font-size: 60px;
+font-weight: 700;
+}
+
+.infosp2 {
+
+text-align: right;
+padding:1.2em;
+
+}
+/* #sp2 {
+    font-weight: bolder;   
+} */
+
+
+
